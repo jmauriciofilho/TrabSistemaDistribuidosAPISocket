@@ -5,5 +5,5 @@ public interface ApiSocket {
     void send();
 
     void receive();
-
+    
 }
